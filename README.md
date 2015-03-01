@@ -5,7 +5,7 @@ Week 4 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp
 
 Use Xcode to implement some interactions in Facebook including animations/gestures to transition between screens. 
 
-Time spent: 12 hours spent in total
+Time spent: 12 hours spent in total 
 
 Completed user stories:
 * [x] Required: 
