@@ -7,7 +7,7 @@ Use Xcode to implement some interactions in Facebook including animations/gestur
 
 Time spent: 12 hours spent in total 
 
-Completed user stories:
+**Completed user stories**
 * [x] Required: 
  + Tapping on a photo in the news feed should expand the photo full screen.
  + Tapping the Done button should animate the photo back into its position in the news feed.
@@ -18,7 +18,7 @@ Completed user stories:
  + The full screen photo should be zoomable.
  + The user should be able to page through the other photos in full screen mode.
 
-Walkthrough of all user stories:
+**Walkthrough of all user stories**
 
 ![hw4](https://cloud.githubusercontent.com/assets/10460611/6429864/34e29af6-bfa2-11e4-8ac8-0dc81c87a27a.gif)
 
