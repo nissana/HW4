@@ -1,8 +1,8 @@
 # HW4
 ### Facebook
+` Featured as one of the Top App projects`
 
 Week 4 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp for designers] (http://codepath.com/iosfordesigners).
-
 Use Xcode to implement some interactions in Facebook including animations/gestures to transition between screens. 
 
 Time spent: 12 hours spent in total 
