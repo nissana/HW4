@@ -5,9 +5,9 @@
 Week 4 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp for designers] (http://codepath.com/iosfordesigners).
 Use Xcode to implement some interactions in Facebook including animations/gestures to transition between screens. 
 
-Time spent: 12 hours spent in total 
+Time spent: 12 hours total 
 
-#####Completed user stories
+#####Completed user stories:
 * [x] Required: 
  + Tapping on a photo in the news feed should expand the photo full screen.
  + Tapping the Done button should animate the photo back into its position in the news feed.
@@ -18,7 +18,7 @@ Time spent: 12 hours spent in total
  + The full screen photo should be zoomable.
  + The user should be able to page through the other photos in full screen mode.
 
-#####GIF walkthrough
+#####GIF walkthrough:
 
 ![hw4](https://cloud.githubusercontent.com/assets/10460611/6429864/34e29af6-bfa2-11e4-8ac8-0dc81c87a27a.gif)
 
